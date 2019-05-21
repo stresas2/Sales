@@ -1,0 +1,54 @@
+[
+  {
+		"id": 1,
+		"Title": "Kompiuteris",
+		"Description": "Very Fast",
+		"Price": 1200.99,
+		"Stock": 5,
+		"Location": {
+			"country": "Lithuania",
+			"city": "Kaunas",
+			"street": "Vytauto st.",
+			"coor": "54.8985, 23.9036"
+		}
+	},
+	{
+		"id": 2,
+		"Title": "Kompiuteris",
+		"Description": "Very Fast",
+		"Price": 1000,
+		"Stock": 5,
+		"Location": {
+			"country": "Lithuania",
+			"city": "Palanga",
+			"street": "Vytauto st.",
+			"coor": "54.8985, 23.9036"
+		}
+	},
+	{
+		"id": 3,
+		"Title": "Loptop",
+		"Description": "Very Fast",
+		"Price": 800,
+		"Stock": 5,
+		"Location": {
+			"country": "Vilnius",
+			"city": "Kaunas",
+			"street": "Vytauto st.",
+			"coor": "54.8985, 23.9036"
+		}
+	},
+	{
+		"id": 4,
+		"Title": "Monitor",
+		"Description": "Very Fast",
+		"Price": 100,
+		"Stock": 5,
+		"Location": {
+			"country": "Alytus",
+			"city": "Kaunas",
+			"street": "Vytauto st.",
+			"coor": "54.8985, 23.9036"
+		}
+	}
+]
